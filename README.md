@@ -1,7 +1,7 @@
 ### Full Stuck Java-script / React developer
 
-Email: popov.pav.aleksei@gmail.com
-Telegram: @alekseipav
+- Email: popov.pav.aleksei@gmail.com
+- Telegram: @alekseipav
 
 
 ![CodeWars](https://www.codewars.com/users/PAVAleksei/badges/small)
@@ -13,7 +13,6 @@ Telegram: @alekseipav
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
-[![Bulma](https://img.shields.io/badge/-Bulma-f9fbfa?logo=bulma&style=for-the-badge)](https://bulma.io/)
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
 [![React](https://shields.io/badge/-React-282c34?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
